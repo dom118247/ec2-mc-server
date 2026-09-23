@@ -1,1 +1,1 @@
-# docker_minecraft_server
+# AWS MINECRAFT SERVER
